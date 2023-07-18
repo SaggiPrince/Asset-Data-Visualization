@@ -32,7 +32,9 @@ The interactive interface allows users to easily customize the input parameters,
 
 ## Demo
 
-![Project Demo](demo.gif)
+![image](https://github.com/SaggiPrince/Asset-Data-Visualization/assets/65917428/e02c8ca3-5d58-4474-b991-550626276466)
+
+![image](https://github.com/SaggiPrince/Asset-Data-Visualization/assets/65917428/e69ded61-400d-48fa-85d4-4426bc437fb4)
 
 ## Dependencies
 
